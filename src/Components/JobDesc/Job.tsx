@@ -99,7 +99,7 @@ const Job = (props:any) => {
                 <Link to={`/company/${props.company}`}>
                     <Button color="brightSun.4" variant="light">Company Page</Button></Link>
             </div>
-            <div className="text-mine-shaft-300 text-justify xs-mx:text-sm">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo fuga recusandae perferendis, excepturi nostrum debitis. Accusantium dolorum corrupti et mollitia unde? Possimus vero nemo maxime vitae impedit? Nisi, quos in. Facilis maiores in nostrum qui animi delectus architecto iste quidem soluta. Illo aspernatur saepe dolores minus soluta? Molestias, delectus eveniet.</div>
+            <div className="text-mine-shaft-300 text-justify xs-mx:text-sm">WE ARE TOP MNC'S</div>
         </div>
     </div>
 }
